@@ -1,0 +1,13 @@
+.Debug_x64/
+Debug*/
+ipch/
+Release*/
+x64/
+ini/
+old/
+**/*.opensdf
+**/*.sdf
+**/*.suo
+**/*.vcxproj.user
+**/*.aps
+*.bak
